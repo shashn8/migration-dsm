@@ -1,0 +1,14 @@
+{
+  "source": {
+    "url": "https://sdkms.fortanix.com",
+    "username": "shashidhar.naraparaju@fortanix.com",
+    "account_id": "2de5ae10-74a4-44ae-adf4-d4cb05e0a9e1",
+    "wrapping_key_id": "<RSA public key ID at source>"
+  },
+  "target": {
+    "url": "https://amer.smratkey.io",
+    "username": "shashidhar.naraparaju@fortanix.com",
+    "account_id": "06fddabc-7d13-43d8-9e7b-9e2bdac45751",
+    "unwrapping_key_id": "<RSA private key ID at target>"
+  }
+}
